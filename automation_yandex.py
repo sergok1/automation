@@ -31,6 +31,6 @@ class YandexAutomate:
 
 if __name__=='__main__':
                 yandex = YandexAutomate()
-                yandex.login('test.testov123456','Zxcvbnm,')
+                yandex.login('test.testov123456','1111111')
 
 
